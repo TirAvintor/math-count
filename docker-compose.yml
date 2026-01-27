@@ -5,7 +5,7 @@ services:
     environment:
       VERSION: "11"
       USERNAME: TirAvintor
-      PASSWORD: lwme2316
+      PASSWORD: jiqlj1811
     devices:
       - /dev/kvm
       - /dev/net/tun
